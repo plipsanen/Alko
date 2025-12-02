@@ -26,3 +26,12 @@ Kun käyttäjä avaa sivun (`index.php`), ensimmäisenä kutsutaan `updateAlkoDa
 - Kirjoittaa rivit CSV‑tiedostoon (alkon-hinnasto-ascii.csv).
 
 Hinnasto päivittyy automaattisesti Alkon sivuilta aina kun sivu avataan ja päivämäärä kertoo aina, milloin hinnasto on viimeksi päivitetty.
+
+## Koodit
+
+- [index.php](https://github.com/plipsanen/Alko/blob/main/index.php)
+- [controller.php](https://github.com/plipsanen/Alko/blob/main/controller.php)
+- [config.php](https://github.com/plipsanen/Alko/blob/main/config.php)
+- [model.php](https://github.com/plipsanen/Alko/blob/main/model.php)
+- [view.php](https://github.com/plipsanen/Alko/blob/main/view.php)
+- [style.css](https://github.com/plipsanen/Alko/blob/main/styles.css)
